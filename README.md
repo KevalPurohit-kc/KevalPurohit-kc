@@ -1,55 +1,36 @@
 <div align="center">
 
-  <!-- Minimal & Clean Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=70A5FD&text=Keval%20Purohit&fontSize=48&height=120&desc=MCA%20%E2%80%A2%20AI%20Algorithms%20%E2%80%A2%20Software%20Development&descSize=16&descAlignY=75" width="100%" />
+  <!-- 1. Wave Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,38&height=220&section=header&text=Keval%20Purohit&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=BCA%20%E2%80%A2%20AI%20Algorithms%20%26%20Intelligent%20Systems&descAlignY=60&descAlign=50" width="100%" />
 
+  <!-- 2. Animated Typing Effect -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=Passionate+about+AI+Algorithms+%26+Intelligent+Systems;Exploring+Real-World+Problem+Solving;Open+to+Collaborations+%26+Tech+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=620&lines=Welcome+to+my+Digital+Workspace+%E2%9A%A1;Crafting+Smart+AI+Algorithms+%26+Solutions+%F0%9F%A7%A0;Exploring+Next-Gen+Tech+%26+Automation+%F0%9F%9A%80;Constantly+Learning%2C+Building+%26+Evolving+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Clean Connect Pill -->
+  <!-- 3. Animated Developer Illustration -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Animated Developer" />
+
+  <br/><br/>
+
+  <!-- Connect Badge -->
   <a href="https://www.linkedin.com/in/keval-purohit-ab0598405/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20%E2%86%92-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20%E2%86%92-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
 </div>
 
 <br/>
 
-### ✦ About Me
-
-> *"Turning logic and data into intelligent, scalable software."*
-
-- 🎓 **Master of Computer Applications (MCA)** Scholar.
-- 🧠 Deeply interested in **Artificial Intelligence, Algorithms & Computational Logic**.
-- 💻 Building practical software solutions with clean, structured code.
-- 🎯 Preparing for impactful roles in **Software Engineering & AI/ML**.
-
 ---
 
-### ✦ Tech Stack
+### ✦ About Me & Vision
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,git,github,vscode,linux&theme=dark" />
-</div>
-
----
-
-### ✦ GitHub Highlights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevalPurohit-kc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalPurohit-kc&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalPurohit-kc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-<div align="center">
-  <sub>Crafted with focus by <a href="https://www.linkedin.com/in/keval-purohit-ab0598405/">Keval Purohit</a></sub>
-</div>
+```yaml
+Name: Keval Purohit
+Education: Bachelor of Computer Applications (BCA)
+Specialization: Artificial Intelligence & Algorithmic Problem Solving
+Status: Exploring cutting-edge AI architectures & automated systems
+Philosophy: "Transforming abstract logic into intelligent, practical technology."
