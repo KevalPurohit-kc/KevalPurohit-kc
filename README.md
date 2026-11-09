@@ -1,13 +1,4 @@
-```python
-class KevalPurohit:
-    def __init__(self):
-        self.role = "MCA Student & AI Explorer"
-        self.passions = ["Artificial Intelligence", "Algorithms", "System Architecture"]
-        self.currently_learning = "Deep Dive into AI Algorithms & Problem Solving"
-        self.superpower = "Turning complex logic into efficient code"
-    def get_status(self):
-        return "Learning in Public & Constantly Leveling Up 🚀"
-```
+
 - 🎓 Pursuing **Master of Computer Applications (MCA)**.
 - 🧠 Focused on **AI Algorithms, Logic Building, and Automation**.
 - 🛠️ Actively building hands-on projects and learning in public.
