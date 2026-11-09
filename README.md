@@ -1,13 +1,11 @@
 <div align="center">
 
-  <!-- 1. HIGH-TECH ANIMATED HEADER (100% WORKING) -->
-  <a href="https://github.com/KevalPurohit-kc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=2400&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=90&lines=%E2%9A%A1+KEVAL+PUROHIT+%E2%9A%A1;BCA+SCHOLAR+%E2%80%A2+CODER;EXPLORING+AI+%26+SYSTEMS;BUILDING+SMART+PROJECTS" alt="Typing Banner" />
-  </a>
+  <!-- 1. GRAND WAVING NEON HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,38&height=230&section=header&text=KEVAL%20PUROHIT&fontSize=48&fontAlignY=36&fontColor=00F7FF&desc=BCA%20Scholar%20%7C%20Software%20and%20AI%20Explorer&descSize=18&descAlignY=60&descAlign=50" width="100%" />
 
-  <!-- 2. SUBTITLE TYPING -->
+  <!-- 2. HIGH-TECH GLOWING TYPING ANIMATION -->
   <a href="https://github.com/KevalPurohit-kc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Transforming+Logic+into+Code+%E2%9C%A8;Open+Source+%E2%80%A2+Continuous+Learner+%F0%9F%9A%80" alt="Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Matrix;Solving+Complex+Logic+with+Code;Continuous+Learner+and+Future+Innovator" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -27,7 +25,7 @@
 
 ---
 
-### ⚡ Live Activity & Streak Diagnostics
+### ⚡ Live System Diagnostics & Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KevalPurohit-kc&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
@@ -45,4 +43,11 @@
   <a href="https://github.com/KevalPurohit-kc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<br/>
+
+<!-- 4. GRAND WAVING NEON FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,38&height=120&section=footer" width="100%" />
 </div>
