@@ -28,9 +28,4 @@
 
 ### ✦ About Me & Vision
 
-```yaml
-Name: Keval Purohit
-Education: Bachelor of Computer Applications (BCA)
-Specialization: Artificial Intelligence & Algorithmic Problem Solving
-Status: Exploring cutting-edge AI architectures & automated systems
-Philosophy: "Transforming abstract logic into intelligent, practical technology."
+
