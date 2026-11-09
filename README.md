@@ -1,23 +1,3 @@
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Keval+Purohit;MCA+Scholar+%26+Tech+Enthusiast+%F0%9F%9A%80;Exploring+AI+Algorithms+%26+Logic+%F0%9F%A7%A0;Building+Smart+%26+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/KevalPurohit-kc">
-    <img src="https://github-profile-trophy.vercel.app/?username=KevalPurohit-kc&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevalPurohit-kc&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
 ```python
 class KevalPurohit:
     def __init__(self):
@@ -25,6 +5,34 @@ class KevalPurohit:
         self.passions = ["Artificial Intelligence", "Algorithms", "System Architecture"]
         self.currently_learning = "Deep Dive into AI Algorithms & Problem Solving"
         self.superpower = "Turning complex logic into efficient code"
-
     def get_status(self):
         return "Learning in Public & Constantly Leveling Up 🚀"
+```
+- 🎓 Pursuing **Master of Computer Applications (MCA)**.
+- 🧠 Focused on **AI Algorithms, Logic Building, and Automation**.
+- 🛠️ Actively building hands-on projects and learning in public.
+- 💬 Ask me about **Python, Algorithms, or Tech Innovations**.
+---
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,vscode,linux,html,css&theme=dark" />
+</p>
+---
+### 📊 GitHub Activity & Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevalPurohit-kc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevalPurohit-kc&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevalPurohit-kc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+---
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/keval-purohit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Keval_Purohit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kevalpurohit@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
