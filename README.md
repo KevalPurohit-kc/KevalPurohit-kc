@@ -5,7 +5,7 @@
 
   <!-- 2. HIGH-TECH MULTI-LINE TYPING ANIMATION -->
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Passionate+Tech+Explorer;Writing+Clean+Code+%26+Solving+Logic;Building+High-Impact+Projects;Continuous+Learner+%26+Future+Innovator" alt="Typing SVG" />
+     <img src="./header.svg" width="100%" />
   </a>
 
   <br/><br/>
@@ -61,5 +61,5 @@
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,38&height=120&section=footer" width="100%" />
+ <img src="./footer.svg" width="100%" />
 </div>
