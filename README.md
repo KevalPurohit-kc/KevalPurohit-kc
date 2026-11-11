@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. GRAND WAVING NEON HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,38&height=230&section=header&text=KEVAL%20PUROHIT&fontSize=48&fontAlignY=36&fontColor=00F7FF&descAlignY=60&descAlign=50" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,38&height=230&section=header&text=KEVAL%20PUROHIT&fontSize=48&fontAlignY=36&fontColor=B967FF&descAlignY=60&descAlign=50" width="100%" />
 
   <!-- 2. HIGH-TECH GLOWING TYPING ANIMATION -->
   <a href="https://github.com/KevalPurohit-kc">
